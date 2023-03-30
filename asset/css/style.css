@@ -1,10 +1,7 @@
 .body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  min-height: 100vh;
+ 
 }
 .cards {
   display: inline-block;
@@ -14,7 +11,6 @@
   color: aliceblue;
   display: inline-block;
   position: relative;
-  top: 100px;
   min-width: 450px;
   min-height: 200px;
   border-radius: 10px;
@@ -54,7 +50,6 @@
   display: inline-block;
   color: #ffffff;
   position: relative;
-  top: 100px;
   min-width: 450px;
   min-height: 200px;
   border-radius: 10px;
@@ -70,7 +65,6 @@
   display: inline-block;
   color: #ffffff;
   position: relative;
-  top: 100px;
   min-width: 450px;
   min-height: 200px;
   border-radius: 10px;
